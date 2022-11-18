@@ -110,7 +110,7 @@ camera.far = 50000; // distance from screen
 camera.setFocalLength(24); //object size
 
 var texsSrc = {
-  fog: 'https://raw.githack.com/vkhisamutdinova/design1/main/birds.png' }; //object source
+  fog: 'https://raw.githack.com/vkhisamutdinova/design1/main/%E2%80%94Pngtree%E2%80%9438%20women%20s%20day%20love_4448485.png' }; //object source
 
 var fog = new Fog();
 
